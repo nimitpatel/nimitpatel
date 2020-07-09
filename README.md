@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my blog site have a (look)[https://blog.nimitpatel.dev]
+- 🔭 I’m currently working on my blog site have a https://blog.nimitpatel.dev
 - 🌱 I’m currently learning NextJs
 - 💬 Ask me about HTML, CSS, React
-- 📫 How to reach me: (nimitpatel.dev)[https://nimitpatel.dev]
+- 📫 How to reach me: https://nimitpatel.dev
 <!--
 **nimitpatel/nimitpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
